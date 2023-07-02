@@ -1,16 +1,16 @@
-# NODEJS KONVERSI NUMBER KE FORMAT RUPIAH
+# NODEJS CONVERT NUMBER TO FORMAT RUPIAH
 
 
 ## Instalasi
 
 ```sh
-$ npm install konversi-rupiah
+$ npm install convert-rupiah
 ```
 ### Cara Penggunaan
 ```js
-const { formatRp } = require('convert-rupiah')
+const { formatRupiah } = require('convert-rupiah')
 
-console.log(formatRp(1000))
+console.log(formatRupiah(1000))
 ```
 
 (The MIT License)
