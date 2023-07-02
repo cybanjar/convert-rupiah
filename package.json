@@ -1,6 +1,6 @@
 {
   "name": "convert-rupiah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module convert number to rupiah",
   "main": "index.js",
   "scripts": {
